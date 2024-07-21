@@ -1,6 +1,6 @@
 # Leave Management Service
 
-This repository contains the Leave Management System built with .NET Core. It uses Web API, Entity Framework, and follows a layered architecture.
+This repository contains the Leave Management service System built with .NET Core. It uses Web API, Entity Framework, and follows a layered architecture.
 
 ## Technologies Used
 - .NET Core
